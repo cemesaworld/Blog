@@ -1,0 +1,20 @@
+{
+	"siteId": "69cc9fc6-c7c8-4e9b-88a3-5152b05ddc24",
+	"geolocation": {
+		"data": {
+			"city": "General Trias",
+			"country": {
+				"code": "PH",
+				"name": "Philippines"
+			},
+			"subdivision": {
+				"code": "40",
+				"name": "Calabarzon"
+			},
+			"timezone": "Asia/Manila",
+			"latitude": 14.3842,
+			"longitude": 120.884
+		},
+		"timestamp": 1714709539981
+	}
+}

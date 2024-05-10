@@ -1,0 +1,30 @@
+plugins = []
+functionsDirectory = "C:\\Users\\Asus\\Desktop\\mylab\\functions"
+functionsDirectoryOrigin = "config-v1"
+headers = []
+redirects = []
+
+[functions]
+
+[functions."*"]
+
+[build]
+publish = "C:\\Users\\Asus\\Desktop\\mylab"
+publishOrigin = "default"
+functions = "C:\\Users\\Asus\\Desktop\\mylab\\functions"
+command = "vite build"
+commandOrigin = "heuristics"
+
+[build.environment]
+
+[build.processing]
+
+[build.processing.css]
+
+[build.processing.html]
+
+[build.processing.images]
+
+[build.processing.js]
+
+[build.services]
